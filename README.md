@@ -1,0 +1,7 @@
+- 👋 Olá, sou @matheusfesantos
+- 👀 Estou interessado em desenvolvimento de software e web.
+- 🌱 Atualmente, estou aprendendo JavaFX e aprimorando minhas habilidades em desenvolvimento front-end e SQL.
+- 💞️ Estou buscando colaborar em projetos relacionados a desenvolvimento e soluções de software inovadoras.
+- 📫 Como me contatar: Você pode me encontrar através do meu GitHub ou do meu perfil no LinkedIn.
+- 😄 Pronomes: Ele
+- ⚡ Curiosidade: Jogo videogame desde os 6 anos e tenho uma paixão por criar conteúdo sobre jogos!
