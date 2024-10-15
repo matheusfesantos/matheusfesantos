@@ -1,7 +1,7 @@
 - 👋 Olá, sou @matheusfesantos
 - 👀 Estou interessado em desenvolvimento de software e web.
-- 🎓 Estou graduando em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente, estou aprendendo JavaFX e aprimorando minhas habilidades em desenvolvimento front-end e SQL.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente, estou aprendendo JavaFX e aprimorando minhas habilidades em desenvolvimento front-end.
 - 💞️ Estou buscando colaborar em projetos relacionados ao desenvolvimento e soluções de software inovadoras.
 - 📫 Como me contatar: Você pode me encontrar através do meu GitHub ou do meu perfil no LinkedIn.
 - 😄 Pronomes: Ele
