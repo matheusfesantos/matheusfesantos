@@ -1,11 +1,12 @@
-## 👋 OLA, ME CHAMO MATHEUS FERREIRA 
+## 👋 Ola, me chamo Matheus Ferreira
 
 -Tenho 20 anos,gosto muito de aprender sobre novas tecnologias, gosto de games desde os 6 anos.
 
 
-## 🎓 FORMAÇÕES 
+## 🎓 Formações :
 
 -Atualmente estou graduando Análise e Desenvolvimento de Sistemas
+
 -Certificado UI UX
 
 
@@ -19,7 +20,7 @@
 </div>
 
 
-## 👩🏽‍💻 TECNOLOGIAS QUE EU USO
+## 👩🏽‍💻 Tecnologias que eu uso :
 
 <div>
  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -30,7 +31,7 @@
 </div>
 
 
-## 🚀 MINHAS ATIVIDADES NO GIT HUB
+## 🚀 Atividades no GitHub :
 
 <div>
     <a href="https://github.com/matheusfesantos">
