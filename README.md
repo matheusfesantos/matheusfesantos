@@ -10,7 +10,7 @@
 -Certificado UI UX
 
 
-## 📫 Como me contatar: 
+## 📫 Como me contatar : 
 
 -Você pode me encontrar através do meu GitHub, do meu perfil no LinkedIn ou email.
 
