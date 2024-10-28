@@ -29,6 +29,8 @@
 <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfesantos&layout=compact&langs_count=16&theme=dark" />
+</div>
 
 
 ## 🚀 Atividades no GitHub :
@@ -37,5 +39,3 @@
     <a href="https://github.com/matheusfesantos">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfesantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     </a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfesantos&layout=compact&langs_count=16&theme=dark" />
-</div>
