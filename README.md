@@ -1,10 +1,10 @@
-#👋 OLA, ME CHAMo MATHEUS FERREIRA 
+##👋 OLA, ME CHAMo MATHEUS FERREIRA 
 
-## Tenho 20 anos,gosto muito de aprender sobre novas tecnologias, gosto de games desde os 6 anos.
+#Tenho 20 anos,gosto muito de aprender sobre novas tecnologias, gosto de games desde os 6 anos.
 
-##🎓 Atualmente estou graduando Análise e Desenvolvimento de Sistemas
+#🎓 Atualmente estou graduando Análise e Desenvolvimento de Sistemas
 
-#👩🏽‍💻 TECNOLOGIAS QUE EU USO
+##👩🏽‍💻 TECNOLOGIAS QUE EU USO
 
 <div>
  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
