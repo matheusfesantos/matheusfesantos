@@ -6,7 +6,7 @@
 
 -Atualmente estou graduando Análise e Desenvolvimento de Sistemas
 
--Certificado UI UX U
+-Certificado UI UX
 
 ## 📫 Como me contatar: 
 
