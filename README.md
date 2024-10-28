@@ -12,7 +12,7 @@
 
 ## 📫 Como me contatar: 
 
--Você pode me encontrar através do meu GitHub ou do meu perfil no LinkedIn.
+-Você pode me encontrar através do meu GitHub, do meu perfil no LinkedIn ou email.
 
 <div>
   <a href = "matheusfgsantos31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
