@@ -2,11 +2,12 @@
 
 -Tenho 20 anos,gosto muito de aprender sobre novas tecnologias, gosto de games desde os 6 anos.
 
+
 ## 🎓 FORMAÇÕES 
 
 -Atualmente estou graduando Análise e Desenvolvimento de Sistemas
-
 -Certificado UI UX
+
 
 ## 📫 Como me contatar: 
 
@@ -17,6 +18,7 @@
   <a href="https://www.linkedin.com/in/matheusf3r/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
 ## 👩🏽‍💻 TECNOLOGIAS QUE EU USO
 
 <div>
@@ -26,6 +28,7 @@
 <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
 
 ## 🚀 MINHAS ATIVIDADES NO GIT HUB
 
