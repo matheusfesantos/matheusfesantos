@@ -22,8 +22,7 @@
 
 
 ## 👩🏽‍💻 Tecnologias que eu uso :
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## 🚀 Atividades no GitHub :
 
