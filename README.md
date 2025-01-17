@@ -22,7 +22,7 @@
 
 
 ## 👩🏽‍💻 Tecnologias que eu uso :
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&pe/rline=3)](https://skillicons.dev)
 
 ## 🚀 Atividades no GitHub :
 
