@@ -22,8 +22,8 @@
 
 
 ## 👩🏽‍💻 Tecnologias que eu uso :
- <img https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg/>
- <img https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="40" height="40" />
 
 ## 🚀 Atividades no GitHub :
 
