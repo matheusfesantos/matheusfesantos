@@ -22,9 +22,8 @@
 
 
 ## 👩🏽‍💻 Tecnologias que eu uso :
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfesantos&layout=compact&langs_count=16&theme=dark" />
-</div>
-
+ <img https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg/>
+ <img https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg/>
 
 ## 🚀 Atividades no GitHub :
 
