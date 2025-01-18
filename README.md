@@ -22,11 +22,4 @@
 
 
 ## 👩🏽‍💻 Tecnologias que eu uso :
-[![My Skills](https://skillicons.dev/icons?i=react&pe/rline=3)](https://skillicons.dev)
-
-## 🚀 Atividades no GitHub :
-
-<div>
-    <a href="https://github.com/matheusfesantos">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfesantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    </a>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css&theme=light)](https://skillicons.dev)
