@@ -1,31 +1,42 @@
-## 👋 Ola, me chamo Matheus Ferreira
+## 👋 Hello! I'm Matheus Ferreira  
 
--Tenho 20 anos,gosto muito de aprender sobre novas tecnologias, gosto de games desde os 6 anos.
+I am a **Java Developer** passionate about technology and programming. Since I was 6 years old, my interest in games sparked my curiosity about development. I'm constantly seeking to learn new technologies and improve my skills.  
 
+---
 
-## 🎓 Formações :
+## 🎓 Education  
 
--Atualmente estou graduando Análise e Desenvolvimento de Sistemas
+- **Pursuing a degree in Systems Analysis and Development**  
+- **Certified in UI/UX Design**  
+- **Certified in Complete Java Programming**  
 
--Certificado UI UX
+---
 
--Certificado Java Completo
+## 📫 How to Reach Me  
 
-## 📫 Como me contatar : 
+Feel free to contact me through the following platforms:  
 
--Você pode me encontrar através do meu GitHub, do meu perfil no LinkedIn ou email.
+<div style="display: flex; gap: 10px;">
+  <a href="mailto:matheusfgsantos31@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="32" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/matheusf3r/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" alt="LinkedIn"></a>
+</div>  
 
-<div>
-  <a href = "matheusfgsantos31@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusf3r/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank"></a> 
-</div>
+---
 
+## 💻 Programming Languages  
 
-## Linguagens 👩🏽‍💻  :
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css&theme=light)](https://skillicons.dev)
 
-## Frameworks :
-[![My Skills](https://skillicons.dev/icons?i=react,spring&theme=light)](https://skillicons.dev)
+---
 
-# Ferramentas :
+## ⚙️ Frameworks  
+
+[![My Skills](https://skillicons.dev/icons?i=spring,react&theme=light)](https://skillicons.dev)
+
+---
+
+## 🛠️ Tools  
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,postman&theme=light)](https://skillicons.dev)
+
+---
