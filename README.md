@@ -28,4 +28,4 @@
 [![My Skills](https://skillicons.dev/icons?i=react,spring&theme=light)](https://skillicons.dev)
 
 # Ferramentas :
-[![My Skills](https://skillicons.dev/icons?i=vscode,intellig,figma,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,intellij,figma,postman&theme=light)](https://skillicons.dev)
