@@ -19,12 +19,12 @@ Feel free to contact me through the following platforms:
 
 ## 💻 Programming Languages  
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css&theme=dark)](https://skillicons.dev)
 
 ## ⚙️ Frameworks  
 
-[![My Skills](https://skillicons.dev/icons?i=spring,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react&theme=dark)](https://skillicons.dev)
 
 ## 🛠️ Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,postman&theme=dark)](https://skillicons.dev)
