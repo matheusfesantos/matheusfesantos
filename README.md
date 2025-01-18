@@ -21,5 +21,10 @@
 </div>
 
 
-## 👩🏽‍💻 Tecnologias que eu uso :
+## 👩🏽‍💻  :
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css&theme=light)](https://skillicons.dev)
+
+## Frameworks :
+[![My Skills](https://skillicons.dev/icons?i=react,springboot,javafx&theme=light)](https://skillicons.dev)
+
+# Ferramentas :
