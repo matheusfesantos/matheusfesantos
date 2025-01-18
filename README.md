@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Matheus Ferreira  
 
-I am a **Java Developer** passionate about technology and programming. Since I was 6 years old, my interest in games sparked my curiosity about development. I'm constantly seeking to learn new technologies and improve my skills.  
+I am a **Java Developer** passionate about technology and programming. 
 
 ## 🎓 Education  
 
