@@ -27,4 +27,4 @@ Feel free to contact me through the following platforms:
 
 ## 🛠️ Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,postman,mysq,docker,awsl&theme=dark)](https://skillicons.dev)
