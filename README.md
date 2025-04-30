@@ -12,13 +12,9 @@
   <a href="https://matheusfgsantos.vercel.app/" target="_blank"><strong>Visite meu site profissional</strong></a>
 </p>
 
----
-
 ## 🎓 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas** (Cursando)
-
----
 
 ## 📚 Cursos e Certificações
 
@@ -42,8 +38,6 @@
    - Duração: 146 horas  
    - Conclusão: Janeiro de 2024  
 
----
-
 ## 📫 Como Entrar em Contato
 
 <p align="left">
@@ -55,8 +49,6 @@
   </a>
 </p>
 
----
-
 ## 💻 Linguagens de Programação
 
 <p>
@@ -64,8 +56,6 @@
   <img src="https://skillicons.dev/icons?i=cs" width="32" />
   <img src="https://skillicons.dev/icons?i=typescript" width="32" />
 </p>
-
----
 
 ## ⚙️ Frameworks e Tecnologias
 
@@ -76,8 +66,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="32" />
 </p>
 
----
-
 ## 🛠️ Ferramentas
 
 <p>
@@ -87,11 +75,8 @@
   <img src="https://skillicons.dev/icons?i=postman" width="32" />
 </p>
 
----
-
 ## 🌍 Idiomas
 
 - **Português**: Nativo  
 - **Inglês**: Intermediário  
 - **Espanhol**: Intermediário
-
