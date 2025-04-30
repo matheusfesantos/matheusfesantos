@@ -47,32 +47,27 @@
   <a href="https://www.linkedin.com/in/matheusf3r/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" alt="LinkedIn" />
   </a>
+  <a href="https://wa.me/5519982740196?text=Ol%C3%A1%20Matheus%2C%20gostei%20muito%20do%20seu%20GitHub%2C%20vamos%20conversar%3F" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WhatsApp.svg" width="32" alt="WhatsApp" />
+  </a>
 </p>
 
 ## 💻 Linguagens de Programação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" width="32" />
-  <img src="https://skillicons.dev/icons?i=cs" width="32" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="32" />
+  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="32" />
 </p>
 
 ## ⚙️ Frameworks e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" width="32" />
-  <img src="https://skillicons.dev/icons?i=react" width="32" />
-  <img src="https://skillicons.dev/icons?i=dotnet" width="32" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="32" />
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="32" />
 </p>
 
 ## 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" width="32" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="32" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="32" />
-  <img src="https://skillicons.dev/icons?i=postman" width="32" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="32" />
 </p>
 
 ## 🌍 Idiomas
