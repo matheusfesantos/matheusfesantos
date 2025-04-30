@@ -5,7 +5,7 @@
 <h1 align="center">Olá! Eu sou o Matheus Ferreira</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack com experiência em **Java** (Backend) e **TypeScript/JavaScript** (Frontend). Apaixonado por tecnologia e programação, com forte interesse em soluções escaláveis e eficientes.
+  Desenvolvedor Full Stack com experiência em Java (Backend) e TypeScript (Frontend). Apaixonado por tecnologia e programação, com forte interesse em soluções escaláveis e eficientes.
 </p>
 
 <p align="center">
