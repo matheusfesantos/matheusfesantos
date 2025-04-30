@@ -28,13 +28,10 @@
 
 <p>
   <a href="mailto:matheusfgsantos31@gmail.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="150" alt="Gmail" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="80" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/matheusf3r/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="150" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/matheusfesantos" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Dark.svg" width="150" alt="GitHub" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="80" alt="LinkedIn" />
   </a>
 </p>
 
