@@ -28,7 +28,7 @@
 
 ## 📫 Como Entrar em Contato
 
-<p align="left">
+<p align="center">
   <a href="mailto:matheusfgsantos31@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="150" alt="Gmail" />
   </a>
@@ -43,19 +43,19 @@
 ## 💻 Linguagens de Programação
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="150" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="150" alt="Java, C#, TypeScript" />
 </p>
 
 ## ⚙️ Frameworks e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" alt="Spring, React, .NET, Next.js" />
 </p>
 
 ## 🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="150" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="150" alt="Docker, MySQL, PostgreSQL, Postman" />
 </p>
 
 ## 🌍 Idiomas
