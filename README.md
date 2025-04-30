@@ -18,57 +18,48 @@
 
 ## 📚 Cursos e Certificações
 
-1. **Java COMPLETO Programação Orientada a Objetos + Projetos**  
-   - Duração: 54,5 horas  
-   - Conclusão: Dezembro de 2024  
-
-2. **Projetos de Sistemas de TI – Fundação Bradesco**  
-   - Carga horária: 15 horas  
-   - Conclusão: Fevereiro de 2025  
-
-3. **Curso de UI/UX – Unicamp (GGTE)**  
-   - Duração: 48 horas  
-   - Conclusão: Novembro de 2024  
-
-4. **Fundamentos de Docker – LinkedIn Learning**  
-   - Duração: 4 horas e 3 minutos  
-   - Conclusão: Abril de 2025  
-
-5. **JavaScript e TypeScript Do Básico ao Avançado – Udemy**  
-   - Duração: 146 horas  
-   - Conclusão: Janeiro de 2024  
+| Curso | Duração | Conclusão |
+|-------|---------|-----------|
+| **Java COMPLETO Programação Orientada a Objetos + Projetos** | 54,5 horas | Dezembro de 2024 |
+| **Projetos de Sistemas de TI – Fundação Bradesco** | 15 horas | Fevereiro de 2025 |
+| **Curso de UI/UX – Unicamp (GGTE)** | 48 horas | Novembro de 2024 |
+| **Fundamentos de Docker – LinkedIn Learning** | 4 horas e 3 minutos | Abril de 2025 |
+| **JavaScript e TypeScript Do Básico ao Avançado – Udemy** | 146 horas | Janeiro de 2024 |
 
 ## 📫 Como Entrar em Contato
 
 <p align="left">
   <a href="mailto:matheusfgsantos31@gmail.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="50" alt="Gmail" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="150" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/matheusf3r/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" alt="LinkedIn" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="150" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/matheusfesantos" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Dark.svg" width="150" alt="GitHub" />
   </a>
 </p>
 
 ## 💻 Linguagens de Programação
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="150" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="150" alt="Linguagens" />
 </p>
 
 ## ⚙️ Frameworks e Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" alt="Frameworks" />
 </p>
 
 ## 🛠️ Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="150" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="150" alt="Ferramentas" />
 </p>
 
 ## 🌍 Idiomas
 
-- **Português**: Nativo  
-- **Inglês**: Intermediário  
+- **Português**: Nativo
+- **Inglês**: Intermediário
 - **Espanhol**: Intermediário
