@@ -5,7 +5,7 @@
 <h1 align="center">Olá! Eu sou o Matheus Ferreira</h1>
 
 <p align="center">
-  Desenvolvedor Java apaixonado por tecnologia e programação.
+  Desenvolvedor <strong>Java</strong> e <strong>TypeScript</strong> apaixonado por tecnologia e programação.
 </p>
 
 ---
@@ -34,15 +34,15 @@
 ## 💻 Linguagens de Programação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css&theme=dark" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=java,cs,typescript,javascript&theme=dark" alt="Linguagens" />
 </p>
 
 ---
 
-## ⚙️ Frameworks
+## ⚙️ Frameworks e Uso
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" alt="Frameworks" />
 </p>
 
 ---
@@ -50,5 +50,5 @@
 ## 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,mysql,docker,aws,mongodb&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" alt="Ferramentas" />
 </p>
