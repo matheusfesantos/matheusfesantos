@@ -64,7 +64,7 @@
 ## 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="100" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="200" />
 </p>
 
 ## 🌍 Idiomas
