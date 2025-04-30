@@ -18,7 +18,6 @@
 
 - **Análise e Desenvolvimento de Sistemas** (Cursando)
 
----
 
 ## 📚 Cursos e Certificações
 
@@ -42,7 +41,6 @@
    - Duração: 146 horas  
    - Conclusão: Janeiro de 2024  
 
----
 
 ## 📫 Como Entrar em Contato
 
@@ -55,7 +53,7 @@
   </a>
 </p>
 
----
+
 
 ## 💻 Linguagens de Programação
 
@@ -63,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" alt="Linguagens" />
 </p>
 
----
+
 
 ## ⚙️ Frameworks e Tecnologias
 
@@ -71,7 +69,7 @@
   <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" alt="Frameworks" />
 </p>
 
----
+
 
 ## 🛠️ Ferramentas
 
@@ -79,7 +77,7 @@
   <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" alt="Ferramentas" />
 </p>
 
----
+
 
 ## 🌍 Idiomas
 
