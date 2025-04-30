@@ -42,29 +42,29 @@
 
 <p align="left">
   <a href="mailto:matheusfgsantos31@gmail.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="32" alt="Gmail" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="150" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/matheusf3r/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" alt="LinkedIn" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="150" alt="LinkedIn" />
   </a>
 </p>
 
 ## 💻 Linguagens de Programação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="32" />
+  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="150" />
 </p>
 
 ## ⚙️ Frameworks e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="32" />
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" />
 </p>
 
 ## 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="200" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="150" />
 </p>
 
 ## 🌍 Idiomas
