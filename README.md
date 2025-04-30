@@ -18,17 +18,15 @@
 
 ## 📚 Cursos e Certificações
 
-| Curso | Duração | Conclusão |
-|-------|---------|-----------|
-| **Java COMPLETO Programação Orientada a Objetos + Projetos** | 54,5 horas | Dezembro de 2024 |
-| **Projetos de Sistemas de TI – Fundação Bradesco** | 15 horas | Fevereiro de 2025 |
-| **Curso de UI/UX – Unicamp (GGTE)** | 48 horas | Novembro de 2024 |
-| **Fundamentos de Docker – LinkedIn Learning** | 4 horas e 3 minutos | Abril de 2025 |
-| **JavaScript e TypeScript Do Básico ao Avançado – Udemy** | 146 horas | Janeiro de 2024 |
+- **Java COMPLETO Programação Orientada a Objetos + Projetos**
+- **Projetos de Sistemas de TI – Fundação Bradesco**
+- **Curso de UI/UX – Unicamp (GGTE)**
+- **Fundamentos de Docker – LinkedIn Learning**
+- **JavaScript e TypeScript Do Básico ao Avançado – Udemy**
 
 ## 📫 Como Entrar em Contato
 
-<p align="center">
+<p>
   <a href="mailto:matheusfgsantos31@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="150" alt="Gmail" />
   </a>
@@ -42,19 +40,19 @@
 
 ## 💻 Linguagens de Programação
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="150" alt="Java, C#, TypeScript" />
 </p>
 
 ## ⚙️ Frameworks e Tecnologias
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" alt="Spring, React, .NET, Next.js" />
 </p>
 
 ## 🛠️ Ferramentas
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,postman&theme=dark" width="150" alt="Docker, MySQL, PostgreSQL, Postman" />
 </p>
 
