@@ -44,7 +44,7 @@
 ## ⚙️ Frameworks e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" alt="Spring, React, .NET, Next.js" />
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="130" alt="Spring, React, .NET, Next.js" />
 </p>
 
 ## 🛠️ Ferramentas
