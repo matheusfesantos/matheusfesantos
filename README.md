@@ -58,6 +58,3 @@
 - **Português**: Nativo
 - **Inglês**: Intermediário
 - **Espanhol**: Intermediário
-
-![Build Status](https://img.shields.io/github/workflow/status/usuário/repositorio/CI)
-![License](https://img.shields.io/github/license/usuário/repositorio)
