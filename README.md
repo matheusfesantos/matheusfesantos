@@ -41,6 +41,9 @@
   <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="130" alt="Java, C#, TypeScript" />
 </p>
 
+![GitHub language](https://img.shields.io/github/languages/top/usuário/repositorio)
+![Build Status](https://img.shields.io/github/workflow/status/usuário/repositorio/CI)
+
 ## ⚙️ Frameworks e Tecnologias
 
 <p>
