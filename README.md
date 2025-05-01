@@ -38,13 +38,13 @@
 ## 💻 Linguagens de Programação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="150" alt="Java, C#, TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" width="130" alt="Java, C#, TypeScript" />
 </p>
 
 ## ⚙️ Frameworks e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="130" alt="Spring, React, .NET, Next.js" />
+  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,nextjs&theme=dark" width="150" alt="Spring, React, .NET, Next.js" />
 </p>
 
 ## 🛠️ Ferramentas
