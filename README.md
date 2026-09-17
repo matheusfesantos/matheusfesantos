@@ -9,188 +9,52 @@
 <h1 align="center">Matheus Ferreira Gomes dos Santos</h1>
 
 <p align="center">
-  <strong>Software Developer | Java | Spring Boot | AWS | PostgreSQL</strong>
+  <strong>Software Developer | Backend | Java & Spring Boot</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor de Software com foco em Backend, construção de APIs REST,
-  arquitetura de aplicações e soluções SaaS.
+  Desenvolvedor de Software com foco em Backend, APIs REST,
+  Engenharia de Software e Arquitetura de Sistemas.
 </p>
 
 <p align="center">
-  <a href="https://matheusfgsantos.vercel.app/" target="_blank">
+  <a href="https://matheusfgsantos.vercel.app/">
     Portfólio
   </a>
-  •
-  <a href="https://github.com/matheusfesantos" target="_blank">
-    GitHub
-  </a>
-  •
-  <a href="https://linkedin.com/in/matheusf3r" target="_blank">
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/matheusf3r">
     LinkedIn
   </a>
-</p>
-
----
-
-## Sobre mim
-
-Sou Desenvolvedor de Software com foco em **Backend**, principalmente no ecossistema **Java + Spring Boot**.
-
-Atuo no desenvolvimento e manutenção de aplicações, com experiência em APIs REST, regras de negócio, persistência de dados, integrações com serviços externos, testes, CI/CD e infraestrutura em cloud.
-
-Tenho interesse em **Engenharia de Software e Arquitetura de Sistemas**, buscando desenvolver aplicações bem estruturadas, sustentáveis e alinhadas às necessidades do negócio.
-
-Também possuo experiência Full Stack, trabalhando com **React, Angular, React Native e Flutter**, o que me permite compreender o desenvolvimento da aplicação de forma integrada.
-
-### Principais áreas de atuação
-
-* Desenvolvimento Backend com Java e Spring Boot
-* Desenvolvimento de APIs REST
-* Arquitetura Hexagonal / Ports & Adapters
-* Clean Code e princípios SOLID
-* Modelagem e persistência com PostgreSQL
-* Integração com APIs e Webhooks
-* Testes automatizados e de integração
-* Docker e CI/CD
-* AWS e infraestrutura de aplicações
-* Desenvolvimento Web e Mobile
-
----
-
-## AquaTech
-
-### SaaS B2B para gestão de profissionais de manutenção de piscinas
-
-O **AquaTech** é uma plataforma SaaS B2B que idealizei e desenvolvo como fundador e responsável técnico.
-
-O projeto foi desenvolvido de ponta a ponta, envolvendo definição de arquitetura, modelagem de domínio, desenvolvimento do backend e mobile, infraestrutura, deploy, integrações e modelo de monetização.
-
-### Arquitetura e Backend
-
-* Java 17
-* Spring Boot
-* APIs REST
-* Arquitetura Hexagonal
-* Clean Code
-* SOLID
-* PostgreSQL
-* Flyway
-* JWT
-* Arquitetura Multitenant
-
-### Infraestrutura
-
-* AWS EC2
-* AWS RDS
-* AWS VPC
-* AWS CloudWatch
-* Docker
-* Nginx
-* HTTPS / Let's Encrypt
-* GitHub Actions
-* CI/CD
-
-### Aplicação
-
-* React Native + Expo
-* Next.js
-* TypeScript
-* Firebase
-* Autenticação JWT
-* Internacionalização
-
-### Integrações
-
-* Asaas
-* PIX e cartão de crédito
-* Assinaturas recorrentes
-* Webhooks
-* Google Maps
-* Upload de arquivos
-* Geração de relatórios em PDF
-
-### Engenharia
-
-* Controle de permissões
-* Isolamento entre empresas
-* Jobs agendados
-* Controle de funcionalidades premium
-* Testes com Spring Boot Test
-* MockMvc
-* H2
-
-O AquaTech representa minha experiência prática na construção de um produto desde a concepção até sua execução em produção.
-
-<p align="center">
-  <a href="https://www.aquatechsoftware.com.br">
-    <strong>Conheça o AquaTech →</strong>
+  &nbsp;•&nbsp;
+  <a href="mailto:theucontatos@gmail.com">
+    Contato
   </a>
 </p>
 
 ---
 
-## Experiência
+## Perfil
 
-### RC Soluções
+Desenvolvedor de Software com foco em **Java e Spring Boot**, atuando na construção e evolução de aplicações, APIs REST e soluções SaaS.
 
-**Desenvolvedor de Software Junior**
+Tenho experiência prática ao longo do ciclo de desenvolvimento, incluindo:
 
-Atuação na manutenção, evolução e modernização de aplicações utilizando **React, React Native, Flutter e C#**.
+* desenvolvimento de APIs e regras de negócio;
+* arquitetura e organização de aplicações;
+* modelagem e persistência de dados;
+* integrações com APIs e Webhooks;
+* testes automatizados e de integração;
+* Docker e pipelines CI/CD;
+* infraestrutura e serviços AWS;
+* desenvolvimento Web e Mobile.
 
-Entre as atividades, estão:
+Meu principal interesse está em **Backend, Engenharia de Software e Arquitetura de Sistemas**, buscando construir aplicações com código organizado, baixo acoplamento e facilidade de manutenção.
 
-* Implementação de melhorias e correções
-* Otimização de aplicações
-* Redesign de interfaces
-* Criação de novas telas e fluxos
-* Implementação de dark mode
-* Testes funcionais
-* Suporte e manutenção de sistemas
-
----
-
-### Elabbora
-
-**Desenvolvedor Full Stack Junior**
-
-Atuação em sistemas de alta escalabilidade utilizando **Java + Spring** no backend e **TypeScript + Angular** no frontend.
-
-Participação em:
-
-* Desenvolvimento de novas funcionalidades
-* Refatoração e manutenção de sistemas
-* Otimização de código
-* Validações fiscais
-* Integrações entre módulos
-* Testes automatizados
-* Code reviews
-
-Um dos projetos envolveu o **NF AG — Nota Fiscal da Água e Saneamento Eletrônica**, com regras de negócio e validações fiscais complexas.
+Também possuo experiência com **React, Angular, React Native e Flutter**, proporcionando uma visão Full Stack das aplicações.
 
 ---
 
-### Stampline
-
-**Estagiário de TI**
-
-Desenvolvimento de soluções internas utilizando **React, React Native, TypeScript, MySQL e SQLite**.
-
-Entre os projetos, desenvolvi um aplicativo mobile integrado a coletores de código de barras para leitura de séries na expedição, contribuindo para maior agilidade e precisão no processo logístico.
-
----
-
-### TOTVS
-
-**Aprendiz**
-
-Atuação com **TOTVS Protheus** e gestão de dados comerciais.
-
-Desenvolvimento de dashboard em **Power BI** para análise de Churn Rate, permitindo identificar padrões de cancelamento e apoiar análises estratégicas.
-
----
-
-## Tecnologias
+## Stack Principal
 
 ### Backend
 
@@ -198,17 +62,15 @@ Desenvolvimento de dashboard em **Power BI** para análise de Churn Rate, permit
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet&theme=dark" />
 </p>
 
-### Frontend & Mobile
+**Java 17 · Spring Boot · C# · .NET · REST APIs**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,flutter&theme=dark" />
-</p>
-
-### Banco de Dados
+### Dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" />
 </p>
+
+**PostgreSQL · MySQL · MongoDB · SQLite · Flyway**
 
 ### Cloud & DevOps
 
@@ -216,91 +78,229 @@ Desenvolvimento de dashboard em **Power BI** para análise de Churn Rate, permit
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux,nginx&theme=dark" />
 </p>
 
-### Ferramentas
+**AWS · Docker · GitHub Actions · Git · Linux · Nginx · CI/CD**
+
+### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,jira&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,flutter&theme=dark" />
 </p>
 
----
-
-## Engenharia de Software
-
-Meus estudos e projetos têm sido direcionados principalmente para:
-
-* Arquitetura de Software
-* Arquitetura Hexagonal
-* Clean Code
-* SOLID
-* Design de APIs
-* Modelagem de domínio
-* Sistemas Multitenant
-* Testes automatizados
-* CI/CD
-* Cloud Computing
+**React · Next.js · Angular · TypeScript · React Native · Flutter**
 
 ---
 
-## Formação
+# Projeto em Destaque
+
+## AquaTech
+
+**SaaS B2B para gestão operacional e financeira de profissionais de manutenção de piscinas.**
+
+<a href="https://www.aquatechsoftware.com.br/">
+  <img src="https://img.shields.io/badge/Acesse%20o%20AquaTech-111827?style=for-the-badge" />
+</a>
+
+O AquaTech é um produto próprio no qual atuo como **fundador e responsável técnico**.
+
+O projeto foi desenvolvido de ponta a ponta, desde a definição da arquitetura e modelagem do domínio até infraestrutura, deploy, integrações e monetização.
+
+### Backend
+
+```text
+Java 17
+Spring Boot
+REST APIs
+PostgreSQL
+Flyway
+JWT
+Spring Boot Test
+MockMvc
+H2
+```
+
+### Arquitetura
+
+```text
+Hexagonal Architecture
+Clean Code
+SOLID
+Domain Modeling
+Multitenancy
+Role-based Access Control
+Scheduled Jobs
+```
+
+### Cloud & DevOps
+
+```text
+AWS EC2
+AWS RDS
+AWS VPC
+AWS CloudWatch
+Docker
+Nginx
+GitHub Actions
+CI/CD
+```
+
+### Integrações
+
+```text
+Asaas
+PIX
+Cartão de crédito
+Webhooks
+Google Maps
+Firebase
+PDF Generation
+File Storage
+```
+
+### Aplicações
+
+```text
+Mobile → React Native + Expo
+Web    → Next.js + TypeScript
+Backend → Java + Spring Boot
+Database → PostgreSQL
+```
+
+O projeto reúne algumas das áreas que direcionam minha evolução profissional:
+
+**Backend → Arquitetura → Banco de Dados → Testes → Cloud → CI/CD → Produção**
+
+---
+
+# Experiência
+
+### RC Soluções
+
+**Software Developer Junior**
+
+Atuação na manutenção e evolução de aplicações utilizando **React, React Native, Flutter e C#/.NET**.
+
+Experiência com desenvolvimento de funcionalidades, correções, otimizações, redesign de interfaces, dark mode, testes funcionais e suporte técnico.
+
+### Elabbora
+
+**Full Stack Developer Junior**
+
+Desenvolvimento e sustentação de sistemas utilizando **Java + Spring** no backend e **TypeScript + Angular** no frontend.
+
+Experiência com novas funcionalidades, refatoração, otimização, validações fiscais, integrações, testes e code reviews.
+
+### Stampline
+
+**IT Intern**
+
+Desenvolvimento de aplicações internas utilizando **React, React Native e TypeScript**.
+
+Um dos projetos foi um aplicativo mobile integrado a coletores de código de barras para leitura de séries na expedição.
+
+### TOTVS
+
+**Apprentice**
+
+Atuação com **TOTVS Protheus** e dados comerciais.
+
+Desenvolvimento de dashboard em **Power BI** para análise de Churn Rate.
+
+---
+
+# Engenharia de Software
+
+Áreas que fazem parte dos meus estudos e projetos:
+
+```text
+Architecture
+├── Hexagonal Architecture
+├── Ports & Adapters
+├── Separation of Concerns
+└── Domain Modeling
+
+Code Quality
+├── Clean Code
+├── SOLID
+└── Maintainability
+
+Backend
+├── Java
+├── Spring Boot
+├── REST APIs
+└── Authentication & Authorization
+
+Testing
+├── Unit Testing
+├── Integration Testing
+├── Spring Boot Test
+└── MockMvc
+
+Infrastructure
+├── Docker
+├── AWS
+└── CI/CD
+```
+
+---
+
+# Formação
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
 Faculdades Integradas Einstein de Limeira
-2024 – 2026
+2024 — 2026
 
 ---
 
-## Certificações
+# Certificações
 
 * **AWS Cloud Quest: Cloud Practitioner** — Amazon Web Services
-* **Java COMPLETO — Programação Orientada a Objetos + Projetos** — Udemy
+* **Java COMPLETO — POO + Projetos** — Udemy
 * **Fundamentos de Docker** — LinkedIn Learning
 * **GitHub Actions: Formação Básica** — LinkedIn Learning
 * **UI/UX Design** — GGTE / Unicamp
 
 ---
 
-## Idiomas
+# Idiomas
 
-* Português — Nativo
-* Inglês — Intermediário
-* Espanhol — Intermediário
+| Idioma    | Nível         |
+| --------- | ------------- |
+| Português | Nativo        |
+| Inglês    | Intermediário |
+| Espanhol  | Intermediário |
 
 ---
 
-## GitHub
+# GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matheusfesantos&show_icons=true&theme=dark&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=matheusfesantos&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfesantos&layout=compact&theme=dark&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfesantos&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
   />
 </p>
 
 ---
 
-## Contato
-
-<p>
-  <a href="mailto:theucontatos@gmail.com">
-    <img
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"
-      width="40"
-    />
+<p align="center">
+  <a href="https://matheusfgsantos.vercel.app/">
+    <strong>Portfólio</strong>
   </a>
-
+  &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/matheusf3r">
-    <img
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"
-      width="40"
-    />
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:theucontatos@gmail.com">
+    <strong>Email</strong>
   </a>
 </p>
 
 <p align="center">
-  <strong>Building software, learning continuously and solving real-world problems through technology.</strong>
+  <sub>Java · Spring Boot · Backend · Software Engineering · Cloud</sub>
 </p>
