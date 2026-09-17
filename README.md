@@ -272,21 +272,6 @@ Faculdades Integradas Einstein de Limeira
 
 ---
 
-# GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=matheusfesantos&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfesantos&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
 <p align="center">
   <a href="https://matheusfgsantos.vercel.app/">
     <strong>Portfólio</strong>
